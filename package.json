@@ -1,0 +1,33 @@
+{
+  "name": "handlebars-trim",
+  "version": "1.0.0",
+  "description": "A handlebars helper, that removes indentations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevgk/handlebars-trim.git"
+  },
+  "keywords": [
+    "handlebars",
+    "helper",
+    "strip-indent",
+    "trim",
+    "whitespace"
+  ],
+  "author": "Kevin Gerken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevgk/handlebars-trim/issues"
+  },
+  "homepage": "https://github.com/kevgk/handlebars-trim#readme",
+  "dependencies": {
+    "handlebars": "^4.0.12",
+    "strip-indent": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
