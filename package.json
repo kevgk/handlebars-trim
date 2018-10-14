@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/kevgk/handlebars-trim#readme",
   "dependencies": {
-    "handlebars": "^4.0.12",
     "strip-indent": "^2.0.0"
   },
   "devDependencies": {
+    "handlebars": "^4.0.12",
     "ava": "^0.25.0"
   }
 }
